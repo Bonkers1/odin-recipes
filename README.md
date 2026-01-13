@@ -1,1 +1,1 @@
-# Practicing commiting on github test 1
+Odin Recipe project is a assignment in which we use all our new found knowledge in HTML. The project will allow the user how to work with github and visual studio code. By the end the user should be more confident in using git and visual studio together.
